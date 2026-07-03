@@ -1,0 +1,9 @@
+# Temporary files
+*.swp
+*.swo
+*~
+
+build/
+
+# VS Code
+.vscode/
