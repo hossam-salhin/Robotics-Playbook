@@ -17,7 +17,7 @@ class Transform3D
 
     void display() const;
 
-    bool isIdentity(double epsilon = 1e-4)const;
+    bool isIdentity(double epsilon = 1e-9)const;
 
 
     private:
